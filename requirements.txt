@@ -2,3 +2,7 @@
 numpy
 pandas
 seaborn
+dill
+xgboost
+scikit-learn
+catboost
